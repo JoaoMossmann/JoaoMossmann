@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Mossmann.
 
 - 🎓 Estudante de Analise e desenvolvimento de sistemas.
-- ☘️ Buscando uma oportunidade para iniciar minha carreira na TI.
+- ☘️ Em busca de conhecimento todos os dias!
 
 <div align="center">
   <a href="https://github.com/joaomossmann">
