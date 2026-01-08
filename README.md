@@ -1,7 +1,7 @@
-## Olá! Eu sou o João Mossmann.
+## Olá! Eu sou o João.
 
 - 🎓 Estudante de Analise e desenvolvimento de sistemas.
-- ☘️ Em busca de conhecimento todos os dias!
+
 
 <div align="center">
   <a href="https://github.com/joaomossmann">
